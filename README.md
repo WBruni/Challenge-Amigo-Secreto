@@ -3,5 +3,5 @@
 <h2>Sobre</h2>
 <p>Projeto </p>
 
-✨ Funcionalidades
-🔒 Sortear participantes de forma aleatória e justa
+<h3>✨ Funcionalidades</h3>
+<p>🔒 Sortear participantes de forma aleatória e justa<p></p>
